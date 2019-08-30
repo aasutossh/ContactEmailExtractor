@@ -9,3 +9,5 @@ then run `pipenv install --ignore-pipfile`
 then `pipenv shell`
 
 then `python extract_contact_email.py website_list.txt`
+
+The website_list should contain one website on each line.
